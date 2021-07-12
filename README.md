@@ -1,10 +1,7 @@
 # mycode
 Tracking my code
 
-# WIP
-
-One Paragraph of your project description goes here. Describe what you're trying to do.
-What is the purpose of putting up this repo?
+To learn how version control projects with GIT.
 
 ## Getting Started
 
